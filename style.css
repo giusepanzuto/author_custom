@@ -21,6 +21,11 @@ Author is distributed under the terms of the GNU GPL
 /* Social Media Brand Colors */
 /*===== Mixins =====*/
 /***** Silent Classes *****/
+
+.av-credit-link {
+	background-color: #F0F1F2;
+}
+
 .post-title, h1 {
   font-size: 2.3125em;
   /* 37px / 16px */
